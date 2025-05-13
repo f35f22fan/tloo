@@ -1,0 +1,74 @@
+body {
+font-size: 14px;
+color: black;
+}
+
+table {
+    padding-top: 20px;
+}
+
+td {
+    vertical-align: top;
+}
+
+span {
+padding-left: 20px;
+vertical-align: top;
+}
+
+div {
+padding-left: 20px;
+vertical-align: top;
+}
+
+
+.ra {
+font-size:16px;
+font-weight: bold;
+padding: 0px;
+padding-right:10px;
+}
+
+.qa {
+font-size:16px;
+font-weight: bold;
+padding: 0px;
+padding-right:10px;
+}
+
+.anchor {
+text-decoration: none;
+padding-left: 0px;
+padding-right: 15px;
+}
+
+.session {
+text-align: center;
+font-size: 20px;
+}
+
+.session_date {
+text-align: center;
+font-size: 20px;
+color: gray;
+}
+
+.eng {
+color: gray;
+margin: 5px;
+padding-top:10px;
+background-color:rgb(230,230,230);
+}
+
+.rus {
+color: black;
+margin: 5px;
+padding-top:10px;
+
+}
+
+.pp {
+    color: rgb(100, 220, 100);
+    font-style: italic;
+    padding: 0;
+}
