@@ -3,6 +3,10 @@ font-size: 14px;
 color: black;
 }
 
+a {
+    text-decoration: none;
+}
+
 table {
     padding-top: 20px;
 }
