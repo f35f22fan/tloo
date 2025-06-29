@@ -1,6 +1,12 @@
+:root {
+  color-scheme: light dark;
+}
+
 body {
-font-size: 14px;
-color: black;
+font-size: 15px;
+font-family: "Noto Sans", Arial;
+color: light-dark(black, white);
+background-color: light-dark(white, rgb(40, 40, 40));
 }
 
 a {
@@ -79,21 +85,21 @@ color: gray;
 }
 
 .eng {
-color: gray;
+color: light-dark(gray, rgb(180, 180, 180));
 margin: 5px;
 padding-top:10px;
-background-color:rgb(230,230,230);
+background-color:light-dark(rgb(230,230,230), rgb(60, 60, 60));
 }
 
 .rus {
-color: black;
+color: light-dark(black, white);
 margin: 5px;
 padding-top:10px;
 
 }
 
 .pp {
-    color: blue;
+    color: light-dark(blue, rgb(150, 150, 255));
     font-style: italic;
     padding: 0;
 }
