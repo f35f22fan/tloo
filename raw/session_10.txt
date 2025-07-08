@@ -466,10 +466,11 @@ __10.15
 -en- QUESTIONER
 I was wondering about the advent of the civilization called
 Atlantis and Lemuria, the way these civilizations occurred, and where did
-they come from [inaudible] civilizations?
+they come from [<span class=inaudible>inaudible</span>] civilizations?
 
 -ru- Мне интересно узнать о появлении цивилизации Атлантиды и Лемурия,
-как эти цивилизации создавались, и откуда они [<i>не слышно</i>] появились?
+как эти цивилизации создавались, и откуда они
+[<span class=inaudible>не слышно</span>] появились?
 
 -en- RA I am Ra. This is the last question of this work. The civilizations of
 Atlantis and Lemuria were not one but two. Let us look first at the Mu
@@ -632,11 +633,13 @@ __10.19
 -en- QUESTIONER
 I was just trying to get to the definition you were using for
 galaxy. You mentioned them a couple of times and it seemed to me that
-[inaudible] what you call a galaxy we call a planetary system. Is there any
+[<span class=inaudible>inaudible</span>] what you call a galaxy we call
+ a planetary system. Is there any
 way to make the instrument more comfortable?
 
 -ru- Я просто хотел узнать определение которое вы используете для галактики.
-Вы упомянули несколько раз и мне показалось что [<i>не слышно</i>] то что вы
+Вы упомянули несколько раз и мне показалось что
+[<span class=inaudible>не слышно</span>] то что вы
 называете галактикой мы называем планетарной системой. Можем ли мы улучшить
 комфорт инструмента?
 

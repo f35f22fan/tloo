@@ -42,7 +42,8 @@ We communicate now.
 
 __17.1
 -en- QUESTIONER Thank you very much. I wish to say again . . . consider it an
-honor, great honor, and also a privilege, as my [<i>inaudible</i>]. And I would
+honor, great honor, and also a privilege, as my [<span class=inaudible>inaudible</span>].
+ And I would
 like to reiterate that my questions may sometimes go a little off because I
 keep going on something that I had already started to work into the
 applications of the Law of One to better understand primarily the free-
@@ -56,7 +57,8 @@ density increase in the next thirty years? Will we see more changes in our
 environment and our effect upon our environment?
 
 -ru- Большое спасибо. Хотел бы сказать опять... считаю это честью, большой честью,
-а также привилегией, поскольку моя [<i>не слышно</i>]. И я хотел бы повторить
+а также привилегией, поскольку моя [<span class=inaudible>не слышно</span>].
+ И я хотел бы повторить
 что мои вопросы могут иногда отдаляться от темы потому что я продолжаю развивать
 что-то над чем я уже начал работать касающейся применения Закона Одного чтобы
 лучше понимать в основном принцип свободы воли и другие искривления о которых
@@ -844,7 +846,7 @@ __17.31
 Thank you very much. I don’t wish to take up extra time by
 asking questions over again. Some are so important I try to ask some
 similar questions in different ways to expand on the answer. Seems to be
-[<i>inaudible</i>] what we’re getting at, maybe not.
+[<span class=inaudible>inaudible</span>] what we’re getting at, maybe not.
 
 In the book Oahspe it states that if an individual is more than fifty percent
 for others—that is, goes over the 50% service to others and is less than
@@ -853,7 +855,8 @@ statement?
 
 -ru- Большое спасибо. Я не хочу тратить лишнее время задавая те же вопросы. Некоторые
 настолько важны что я пытаюсь задавать похожие вопросы разными способами чтобы
-расширить ответ. Похоже [<i>не слышно</i>] к чему мы стремимся, а может и нет.
+расширить ответ. Похоже [<span class=inaudible>не слышно</span>] к чему мы стремимся,
+а может и нет.
 
 В книге Оаспе сказано что если индивидуум более пятидесяти процентов за других - 
 то есть, тратит больше 50% для служения другим и менее 50% служения себе - тогда
@@ -1060,10 +1063,11 @@ __17.41
 -en- QUESTIONER
 At this time, near the end of the cycle, how are
 reincarnations into the physical allocated, shall I say, on this planet? In
-our own [inaudible].
+our own [<span class=inaudible>inaudible</span>].
 
 -ru- В настоящее время, близко к концу цикла, как распределяются реинкарнации в
-физический план, скажем так, этой планеты? В нашей собственной [<i>не слышно</i>].
+физический план, скажем так, этой планеты? В нашей собственной
+[<span class=inaudible>не слышно</span>].
 
 -en- RA I am Ra. Entities wishing to obtain critically needed experience in
 order to become harvestable are incarnated with priority over those who
@@ -1117,9 +1121,10 @@ May we ask at this time if there are any questions?
 
 __17.44
 -en- QUESTIONER
-My only question: is there anything we can do to make the instrument [inaudible]?
+My only question: is there anything we can do to make the instrument
+[<span class=inaudible>inaudible</span>]?
 -ru- Мой вопрос лишь: можем ли мы сделать что-то чтобы улучшить
-[<i>не слышно</i>] этого инструмента.
+[<span class=inaudible>не слышно</span>] этого инструмента.
 
 -en- RA I am Ra. This instrument is not wearing the appropriate apparel for
 this work. As inpourings occur in the regions of the, what you may call,

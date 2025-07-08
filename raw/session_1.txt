@@ -454,9 +454,8 @@ May we enunciate this law in more detail?
 Объяснить этот закон в б&oacute;льших деталях?
 
 __1.8
--en- QUESTIONER
-[<i>Inaudible</i>]
--ru-[<i>Не слышно</i>]
+-en- QUESTIONER [<span class=inaudible>Inaudible</span>]
+-ru-[<span class=inaudible>Не слышно</span>]
 
 -en-RA
 Is there another query at this time?
@@ -488,14 +487,14 @@ understanding [in] other entities [or are] all efforts . . . efforts by the
 individual on himself accelerating his understanding? In other words, if
 an individual tries to act as a catalyst in general to increase the awareness
 of planetary consciousness, is he doing nothing but acting upon himself,
-or is it possible [<i>inaudible</i>]?
+or is it possible [<span class=inaudible>inaudible</span>]?
 -ru- Другой вопрос. Можно ли ускорить понимание других существ или все
  усилия.. усилия индивидуума над
 самим собой ускоряют его понимание? Другими словами, если индивидуум
  пытается действовать
 в качестве катализарота для ускорения планетарного сознания, влияет ли
  он таким образом лишь на себя,
-или возможно [<i>не слышно</i>]? <span class=pp>(видимо он хотел узнать
+или возможно [<span class=inaudible>не слышно</span>]? <span class=pp>(видимо он хотел узнать
  если можно ускорить понимание
 других людей или только сами же люди и способны сделать это с собой,
  примеч.пер.)</span>

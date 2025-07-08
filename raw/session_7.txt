@@ -95,11 +95,11 @@ three, four, each squared by the next number.
 
 __7.4
 -en- QUESTIONER
-[<i>Inaudible</i>] use an example. If ten, only ten, entities on Earth
+[<span class=inaudible>Inaudible</span>] use an example. If ten, only ten, entities on Earth
 required your services, how would you compute their call using this
 square rule?
 
--ru-[<i>Не слышно</i>] использовать пример. Если десять, только десять, существ
+-ru-[<span class=inaudible>Не слышно</span>] использовать пример. Если десять, только десять, существ
 планеты Земля попросили бы вашей помощи, как бы вы посчитали их зов используя это
 правило квадрата?
 

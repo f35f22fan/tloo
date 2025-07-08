@@ -11,10 +11,10 @@ communicate now.
 __6.1
 -en-QUESTIONER
  We would like to continue the material from yesterday. We
-had to cease before [<i>inaudible</i>].
+had to cease before [<span class=inaudible>inaudible</span>].
 
 -ru-Мы бы хотели продолжить вчерашний материал. Нам пришлось приостановить до
-того как [<i>не слышно</i>].
+того как [<span class=inaudible>не слышно</span>].
 
 -en-RA
  I am Ra. This is well with us.
@@ -197,10 +197,10 @@ __6.6
 -en-QUESTIONER
  Would it be possible to take one of the people at that time
 from our planet and place him on Venus? Would he survive? Were
-conditions much [inaudible]?
+conditions much [<span class=inaudible>inaudible</span>]?
 
 -ru- Было бы возможно взять человека тех времён с нашей планеты и поместить его
-на Венеру? Он бы выжил? Была ли среда обитания [<i>не слышно</i>]?
+на Венеру? Он бы выжил? Была ли среда обитания [<span class=inaudible>не слышно</span>]?
 
 -en- RA
  The third-density conditions are not hospitable to the life-forms of

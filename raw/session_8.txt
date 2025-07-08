@@ -164,9 +164,10 @@ craft in undersea bases?
 __8.6
 -en- QUESTIONER
  How did the United States learn of the technology to build
-these land [<i>inaudible</i>]?
+these land [<span class=inaudible>inaudible</span>]?
 
--ru- Как США получили технологию чтобы построить эти наземные [<i>не слышно</i>]?
+-ru- Как США получили технологию чтобы построить эти наземные
+[<span class=inaudible>не слышно</span>]?
 
 -en- RA
  I am Ra. There was a mind/body/spirit complex known to your
@@ -206,17 +207,23 @@ people’s call is greater and greater.
 __8.7
 -en- QUESTIONER
  I’m puzzled by these craft that we have undersea bases for.
-They are [inaudible]. Is this technology sufficient to overshadow all other
+They are [<span class=inaudible>inaudible</span>].
+ Is this technology sufficient to overshadow all other
 armaments? Do we have just the ability to fly in these craft, or are there
-any weapons like there are— Were they given to us [inaudible] or are they
-just craft for transport? What is the basic mechanism of their [inaudible]?
+any weapons like there are— Were they given to us
+[<span class=inaudible>inaudible</span>] or are they
+just craft for transport? What is the basic mechanism of their
+[<span class=inaudible>inaudible</span>]?
 It’s really hard to believe is what I’m saying.
 
 -ru- Я озадачен этими кораблями для которых у нас есть подводные базы.
-Они [<i>не слышно</i>]. Этой технологии достаточно чтобы затмить все другие
+Они [<span class=inaudible>не слышно</span>].
+Этой технологии достаточно чтобы затмить все другие
 виды оружия? У нас только способность летать в этих кораблях, или там есть
-оружие - они были нам даны [<i>не слышно</i>] или это лишь корабли для
-транспортировки? Каков их базовый принцип [<i>не слышно</i>]?
+оружие - они были нам даны [<span class=inaudible>не слышно</span>]
+или это лишь корабли для
+транспортировки? Каков их базовый принцип
+[<span class=inaudible>не слышно</span>]?
 Трудно в это поверить, вот что я хочу сказать.
 
 -en- RA I am Ra. The craft are perhaps misnamed in some instances. It would
@@ -280,11 +287,12 @@ __8.11
 -en- QUESTIONER
  Wouldn’t this type of craft totally solve, or come close to
 solving, a lot of the energy problems as far as transport goes? That we’re
-used to transporting [<i>inaudible</i>] . . . transporting [<i>inaudible</i>].
+used to transporting [<span class=inaudible>inaudible</span>] . . . transporting 
+[<span class=inaudible>inaudible</span>].
 
 -ru- Разве такие корабли не помогли бы решить, или почти решить, много
 энергетических проблем из области транспорта? Что мы транспортируем
-[<i>не слышно</i>].
+[<span class=inaudible>не слышно</span>].
 
 -en- RA I am Ra. The technology your peoples possess at this time is capable
 of resolving each and every limitation which plagues your social memory
@@ -439,11 +447,12 @@ more of the Law of One?
 __8.20
 -en- QUESTIONER
  Were the entities that picked him . . . is that the normal
-configuration of these entities? They [inaudible] rather unusual.
+configuration of these entities? They [<span class=inaudible>inaudible</span>]
+ rather unusual.
 
 -ru- Были ли существа кто забрали его... это естественное конфигурация/поведение
 этих существ?
-Они [<i>не слышно</i>] довольное необычно.
+Они [<span class=inaudible>не слышно</span>] довольное необычно.
 
 -en- RA I am Ra. The configuration of their beings is their normal
 configuration. The unusualness is not remarkable. We ourselves, when we
@@ -677,7 +686,8 @@ that I am considering leaving out of the book entirely, or I am going to
 have to question you in considerable detail about it. It’s difficult to even
 question in this area, but I would like maybe to ask a few more questions
 about it, with still the possible option of leaving it out of the book. What
-are the diameter of these craft the United States [<i>inaudible</i>]?
+are the diameter of these craft the United States
+ [<span class=inaudible>inaudible</span>]?
 
 -ru- Причина по которой я задавал столько вопросов о кораблях которые как ты говоришь
 управляются правительством США, состоит в том что если мы включим это в книгу
@@ -685,7 +695,7 @@ are the diameter of these craft the United States [<i>inaudible</i>]?
 или мне придется ещё значительно расспросить тебя об этом. Трудно даже задавать
 вопросы в этой области, но я хотел бы задать может быть еще несколько вопросов об
 этом, при этом сохраняя возможность оставить это за пределами книги. Каков
-диаметр этих кораблей которые США [<i>не слышно</i>].
+диаметр этих кораблей которые США [<span class=inaudible>не слышно</span>].
 
 -en- RA
  I am Ra. I suggest that this be the last question for this session. We

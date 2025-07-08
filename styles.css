@@ -18,7 +18,9 @@ table {
 }
 
 td {
+    border-radius: 15px;
     vertical-align: top;
+    padding: 0px;
 }
 
 span {
@@ -40,14 +42,14 @@ vertical-align: top;
 .ra_en {
 font-size:16px;
 font-weight: bold;
-padding: 0px;
+padding-left: 10px;
 padding-right:10px;
 }
 
 .qa_en {
 font-size:16px;
 font-weight: bold;
-padding: 0px;
+padding-left: 10px;
 padding-right:10px;
 }
 
@@ -55,22 +57,28 @@ padding-right:10px;
 font-size:16px;
 font-weight: bold;
 color: red;
-padding: 0px;
-padding-right:10px;
+padding-left: 10px;
+padding-right: 10px;
 }
 
 .qa_ru {
 font-size:16px;
 color: red;
 font-weight: bold;
-padding: 0px;
-padding-right:10px;
+padding-left: 10px;
+padding-right: 10px;
 }
 
 .anchor {
 text-decoration: none;
 padding-left: 0px;
 padding-right: 15px;
+}
+
+.inaudible {
+    font-style: italic;
+    color: light-dark(gray, rgb(150, 75, 0));
+    padding: 0px;
 }
 
 .session {
@@ -86,15 +94,20 @@ color: gray;
 
 .eng {
 color: light-dark(gray, rgb(180, 180, 180));
-margin: 5px;
-padding-top:10px;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 5px;
+padding-bottom: 5px;
+
 background-color:light-dark(rgb(230,230,230), rgb(60, 60, 60));
 }
 
 .rus {
 color: light-dark(black, white);
-margin: 5px;
-padding-top:10px;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 5px;
+padding-bottom: 5px;
 
 }
 

@@ -96,12 +96,14 @@ __9.3
  The healing exercises that you gave to us are of such a nature
 that it is best to concentrate on a particular exercise at a time. I would like
 to ask at this time what exercise I should concentrate on. Possibly a little
-exercise change . . . should concentrate on [<i>inaudible</i>], say tonight?
+exercise change . . . should concentrate on
+[<span class=inaudible>inaudible</span>], say tonight?
 
 -ru- Упражнения в области целительства что вы нам дали они такие что лучше
 всего сконцентрироваться на одном упражнении за раз. Я бы хотел спросить
 на каком упражнении мне сконцентрироваться. Может поменять упражнение...
-может сконцентрироваться на [<i>не слышно</i>], например этим вечером?
+может сконцентрироваться на [<span class=inaudible>не слышно</span>],
+например этим вечером?
 
 -en- RA
  I am Ra. Again, to direct your judgment is an intrusion upon your
@@ -193,10 +195,10 @@ I am Ra. The first entities upon this planet were water, fire, air and earth.
 
 __9.6
 -en- QUESTIONER
- The people that we now have—the first people, [<i>inaudible</i>]
+ The people that we now have—the first people, [<span class=inaudible>inaudible</span>]
 like us—where did they come from? How did they evolve?
 
--ru- Люди которые есть сейчас - первые люди, [<i>не слышно</i>]
+-ru- Люди которые есть сейчас - первые люди, [<span class=inaudible>не слышно</span>]
 как мы - откуда они пришли? Как они эволюционировали?
 
 -en- RA
