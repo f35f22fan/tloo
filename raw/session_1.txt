@@ -329,8 +329,8 @@ further?
 
 __1.6
 -en-QUESTIONER
- [<i>Inaudible</i>]
--ru-[<i>Не слышно</i>]
+ [<span class=inaudible>Inaudible</span>]
+-ru-[<span class=inaudible>Не слышно</span>]
 -en-RA
  Is there another query?
 -ru-Есть ли ещё вопросы?
