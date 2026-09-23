@@ -81,6 +81,11 @@ padding-right: 15px;
     padding: 0px;
 }
 
+.center_title {
+    text-align: center;
+    font-size: 20px;
+}
+
 .session {
 text-align: center;
 font-size: 14px;
@@ -99,7 +104,7 @@ padding-right: 10px;
 padding-top: 5px;
 padding-bottom: 5px;
 
-background-color:light-dark(rgb(230,230,230), rgb(60, 60, 60));
+background-color:light-dark(rgb(200,200,200), rgb(60, 60, 60));
 }
 
 .rus {
